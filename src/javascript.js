@@ -109,3 +109,5 @@ celcius.addEventListener("click", changeCelsuisTemp);
 
 let currentButton = document.querySelector("#current-button");
 currentButton.addEventListener("click", showPosition);
+
+temperatureDisplay("Wellington");
